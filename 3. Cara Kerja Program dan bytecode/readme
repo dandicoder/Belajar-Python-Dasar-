@@ -1,0 +1,17 @@
+python adalah bahasa pemograman interpreted, bukan compiled C atau C++
+Menjalankan .py, interpreter python membaca dan menjalankan kode satu persatu
+Dijalankan di terminal
+
+proses compiled 
+sourcecode ➡ compiled (C atau C++) ➡ executable (.exe)
+
+Python juga bisa menggunakan compiled yang namanya bytecode
+
+sourcecode ➡ python ➡ tampilkan
+⬇➡ compiled ➡ bytecode
+
+cara membuat bytecode
+
+terminal
+ ⬇⬇⬇
+ python -m py_compile Main.py
