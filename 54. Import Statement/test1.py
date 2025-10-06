@@ -1,0 +1,1 @@
+data = "kosong isi"

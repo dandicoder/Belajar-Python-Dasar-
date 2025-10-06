@@ -1,0 +1,1 @@
+print("ini modul cuma isi print")
