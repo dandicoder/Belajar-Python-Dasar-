@@ -1,0 +1,1 @@
+print("ini berfungsi untuk menjelaskan apa kegunaan folder package")
